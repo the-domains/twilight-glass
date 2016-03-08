@@ -1,0 +1,28 @@
+name: Twilight Glass
+favicon: null
+layout_spectrum: 0.7225278120022267
+typography_spectrum: 0.864401503931731
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.29388404334895313
+  lightness: 0.10959339165128767
+  saturation: 0.5948628548067063
+  rhythmicContrast: 0.6996189774945378
+purpose: []
